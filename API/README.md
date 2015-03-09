@@ -29,6 +29,4 @@ Tommy Phan
 
 7. Our experience creating the example web page was quite pleasant.  Proper documentation of the API made it much easier for us to implement the API into our example page.  We highly recommend incorporating this API into our project due to its ease of use and free availability.
 
-8. Using our example, if a user decides that the movie interests them, they can gain further  details about it by clicking on the artwork.  We can also use Amazon’s API to allow the user the option to purchase/rent the movie.  Our goal is to provide a complete experience for the user so that they may achieve all of this on our website.  
-In our example we wrote function : callAPI that will be use for any API call. It receive API url, callback function in cases success or error,  data type (xml,json,jsonp,script),dataFormat, call type is post,get or put. The function signature is:
-callAPI(APIUrl,successCall,errorCall,dataType,callType,dataFormat).
+8. Using our example, if a user decides that the movie interests them, they can gain further  details about it by clicking on the artwork.  We can also use Amazon’s API to allow the user the option to purchase/rent the movie.  Our goal is to provide a complete experience for the user so that they may achieve all of this on our website.
